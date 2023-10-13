@@ -1,12 +1,11 @@
 # JokesWebApp
 Jokes Web Application with ASP.NET Core MVC
 
-Application de démonstration ASP.NET Core MVC C#
-
-Il s'agit d'une application de démonstration utilisant Visual Studio 2022 écrite en ASP.NET Core MVC 6.0.22 C#.
-
-Ce projet vise simplement à présenter certaine de mes compétences en codage.
-
+Ce projet est une implémentation basique d'une API de blague permettant de :
+* Effectuer les recherches sur une blague,
+* Créer une blague
+* Supprimer une blague
+* Editer et de voir les détails d'une blague".
 
 Etant un developeur C# Junior l'implementation de ce projet m'a permit de comprendre les concept suivants:
 - Utilisez le modèle de conception MVC (Model View Controller).
